@@ -1,6 +1,6 @@
 <p>This is a crawler which follows ABC algorithm based on URLs IP Address.</p>
 <p>Requirement:<br>
-Python3.6, Mysql, Beautiful Soup, BERT</p>
+Python3.6, MongoDB, Beautiful Soup, BERT</p>
 <p>NOTE:  All files need to be in same folder.</p>
 <ul>
 <li>
