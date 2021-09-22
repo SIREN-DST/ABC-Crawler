@@ -55,4 +55,5 @@ def seed_url_fetch():
         return None
     else:
         id_val, sno, pid, url, *_ = mydoc.values()
-        return url
+        return URL
+
