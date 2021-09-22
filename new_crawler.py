@@ -24,6 +24,7 @@ import socket
 from tldextract import tldextract
 from mongo_db import *
 
+
 queue = []
 try:
     with open(FilesConfig.csv_filename + "Visited.txt") as f:
